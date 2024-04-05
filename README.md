@@ -1,6 +1,6 @@
-# oneM2M Wrapper ctOP Backend
+# Backend
 
-This project is a backend for the oneM2M Wrapper ctOP, built with FastAPI.
+This project is a backend server, built with FastAPI.
 
 ## Getting Started
 
